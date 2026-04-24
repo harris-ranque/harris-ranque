@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm DevOps | SRE | Platform | Cloud Engineer</h1>
+<h1 align="center">Hi 👋, I'm a Fullstack | DevOps Engineer</h1>
 <!-- <h5 align="center" >Certified AWS Solution Architect Associate</h5> -->
 <p  >  </p>
 
 
-- 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
+- 💬 Ask Me About: **Next.JS**, **React**, **Angular**, **Python**, **Node.JS**,**ASP.Net Core**, **Golang**, **AWS**, **GCP**, **Azure**, **Terraform (IaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
 
-- 📫 Reach me at **goodhabitsamsam@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=onkar717&color=green&style=for-the-badge)
 
 - 🛠️ Future Goals: Dive deeper into **Genravtive-AI in Cloud**
