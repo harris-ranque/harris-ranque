@@ -36,4 +36,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar717&show_icons=true&locale=en&layout=compact" alt="onkar717" /></p> -->
 
 
-<p align="center">Let's connect and collaborate on exciting projects!</p>
+<p align="center">Let's collaborate on exciting projects!</p>
